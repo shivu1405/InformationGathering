@@ -73,27 +73,35 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ### Whois
+<img width="1913" height="1007" alt="whois" src="https://github.com/user-attachments/assets/030d3f56-8b9e-4439-8345-2bf08dbbeaed" />
 
 ### Finding Hosting Company :
 
+
 ### History of the website :
 
-### ping command :
 
-### whois :
+
+### ping command :
+"C:\Users\admin\VirtualBox VMs\kali\VirtualBox_kali_21_08_2025_09_16_20 ping.png"
+
 
 ### netcat :
+"C:\Users\admin\VirtualBox VMs\kali\VirtualBox_kali_21_08_2025_08_35_56 net cat.png"
 
 ### nmap :
-
+"C:\Users\admin\VirtualBox VMs\kali\VirtualBox_kali_21_08_2025_08_38_29 nmap.png"
 ### whatweb :
+"C:\Users\admin\VirtualBox VMs\kali\VirtualBox_kali_21_08_2025_08_42_43 whtweb.png"
 
 ### httprint :
 
+
 ### TCP traceroute :
+"C:\Users\admin\VirtualBox VMs\kali\VirtualBox_kali_21_08_2025_09_06_24 icp traceroute.png"
 
 ### UDP traceroute :
-
+"C:\Users\admin\VirtualBox VMs\kali\VirtualBox_kali_21_08_2025_09_10_34 udp.png"
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
